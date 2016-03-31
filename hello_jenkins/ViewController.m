@@ -18,6 +18,7 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
     NSLog(@"就更新一个节点！");
+    NSLog(@"持续更新一个节点！");
 }
 
 - (void)didReceiveMemoryWarning {
